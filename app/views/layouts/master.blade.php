@@ -133,7 +133,7 @@
 				<section id="footer">
 					<div class="container">
 						<footer class="main-footer">
-							&copy; <a href="http://omarquimbaya.com" target="_blank"><img src="/img/pandasmall.png" alt="Written by a Panda"></a> &amp; <a href="https://github.com/BenGriffith" target="_blank"><img src="/img/Ben.png" alt="Ben"></a>
+							&copy; <a href="http://omarquimbaya.com" target="_blank"><img src="/img/pandasmall.png" alt="Written by a Panda"></a> &amp; <a href="https://bengriffith.co" target="_blank"><img src="/img/Ben.png" alt="Ben"></a>
 						</footer>
 					</div>
 				</section>
