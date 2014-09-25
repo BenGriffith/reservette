@@ -1,0 +1,79 @@
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+td {
+	font-size: 1.3em;
+}
+
+th {
+	font-size: 1.4em;
+}
+
+.navbar-default {
+	background-color: #000;
+}
+
+.clickable {
+	cursor: pointer;
+}
+
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+
+#header {
+	background:#333;
+}
+
+#content {
+	padding:10px;
+	padding-bottom:80px;
+}
+
+#footer {
+	width:100%;
+	height:45px;
+	margin-top: 10px;
+	position:absolute;
+	bottom:0;
+	background:#000;
+	color:#FFF;
+}
+
+.main-footer {
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
+.container {
+	width:70%;
+}
+
+#error-missing {
+	top:25%;
+	left:15%;
+	position:fixed;
+}
+
+#login-form {
+	top:20%;
+	position:fixed;
+}
+
+
+.spacing {
+	padding-right:15px;
+}
+
+.alert {
+	width:67%;
+
+.no-bullet {
+    list-style-type: none;
+}
+
